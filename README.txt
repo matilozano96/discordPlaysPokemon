@@ -9,6 +9,7 @@ Requisites:
 
 How to use:
 - Setup a Discord bot to be able to read and delete messages within a server
+- In bot.py, replace the token field with your bot's token.
 
 - Initialize EmuHawk
 - Open Tools/Lua Console
