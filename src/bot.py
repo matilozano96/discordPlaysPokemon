@@ -59,5 +59,5 @@ async def on_message(message):
         print("Invalid")
     print("----------")
 
-TOKEN = "MTExNDM5MjU4Njk3MTUyOTI0Ng.G_cG1K.LiXZuLVqNYirJjXJEjODLfCHVBytHN1YI0Y2j4"
+TOKEN = "YOUR-TOKEN-HERE"
 client.run(TOKEN)
